@@ -19,6 +19,14 @@ Currently are:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## Data
+<div align="center">
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+</div>
+
 
 Connect with me on:
 

@@ -35,6 +35,9 @@ Connect with me on:
 
 [![Linked_In](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mogamat-toufeeq-farat-a5bb72271/)
 
+<a href="mailto:toufeeqfarat@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
 
 
 

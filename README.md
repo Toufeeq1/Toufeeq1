@@ -4,7 +4,7 @@ Hello there! 👋 I'm Mogamat Toufeeq Farat, and welcome to my GitHub profile. H
 
 # About Me
 
-Hello! 👋 I'm from the beautiful country of South Africa. I recently completed my software development course at CodeSpace Academy, and I'm thrilled to introduce myself as a passionate web/software developer.
+I'm from the beautiful country of South Africa. I recently completed my software development course at CodeSpace Academy, and I'm thrilled to introduce myself as a passionate web/software developer.
 
 ## What Drives Me
 

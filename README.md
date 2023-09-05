@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Mogamat Toufeeq Farat
-Hello there! 👋 I'm Mogamat Toufeeq Farat, and welcome to my GitHub profile. Here, you'll find a bit about me. Feel free to explore and get to know me better
+Hello there! 👋 I'm Mogamat Toufeeq Farat, and welcome to my GitHub profile. Here, you'll find a bit about me. Feel free to explore and get to know me better.
 
 # About Me
 

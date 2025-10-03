@@ -46,9 +46,6 @@ Currently are:
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<b>Currently working on:</b>
-<br>
-MOGFAR041_ftc2301_Group-B-Riko_MogamatToufeeqFarat_PodcastApp
 
 <b>My GitHub Stats</b>
 

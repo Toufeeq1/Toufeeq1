@@ -12,39 +12,38 @@ My journey in the world of technology is fueled by a relentless desire to learn 
 
 ## Beyond the Keyboard
 
-When I'm not immersed in lines of code, you'll likely find me with my nose in a book. I have a deep love for reading, and it's one of my favorite ways to unwind and gain new perspectives. Additionally, I have a fondness for the beach and the serenity it offers, often indulging in fishing as a relaxing hobby.
+When I'm not coding, you'll likely find me with my nose in a book. I have a deep love for reading, and it's one of my favorite ways to unwind and gain new perspectives. Additionally, I have a fondness for the beach and the serenity it offers, often indulging in fishing as a relaxing hobby.
 
-## 🛠 Skills
-Currently are:
+## 🛠 Skills  
 
-### Front-End 
+<div style="display: flex; gap: 50px;">
 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  <div>
+    <h3>💻 Languages & Libraries</h3>
+    <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  </div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  <div>
+    <h3>🎨 Design Tools</h3>
+    <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+    <h3>☁️ Hosting</h3>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <h3>🗄️ Database</h3>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  </div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Material--UI-](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-
-### Design Tools
-
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### Hosting 
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Database
-
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
 <b>My GitHub Stats</b>

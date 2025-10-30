@@ -8,7 +8,7 @@ I'm from the beautiful country of South Africa. I recently completed my software
 
 ## What Drives Me
 
-My journey in the world of technology is fueled by a relentless desire to learn and create. In this ever-evolving field, I find immense joy in embracing new challenges and opportunities. Whether it's delving into the latest technologies, immersing myself in unfamiliar programming languages, or conquering intricate coding puzzles, I am always eager to expand my knowledge and skills.
+My desire to learn and create is what drives my journey in the technology industry. I enjoy taking on new challenges and opportunities in this constantly changing field. I'm constantly looking to increase my knowledge and abilities, whether it's through exploring the newest technologies, learning new programming languages, or solving challenging coding puzzles.
 
 ## Beyond the Keyboard
 

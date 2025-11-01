@@ -12,7 +12,7 @@ My desire to learn and create is what drives my journey in the technology indus
 
 ## Beyond the Keyboard
 
-When I'm not coding, you'll likely find me with my nose in a book. I have a deep love for reading, and it's one of my favorite ways to unwind and gain new perspectives. Additionally, I have a fondness for the beach and the serenity it offers, often indulging in fishing as a relaxing hobby.
+When I'm not coding, you'll likely find me with my nose in a book. I have a deep love for reading, and it's one of my favorite ways to unwind. I also love the beach because I enjoy kayaking and fishing.
 
 ## 🛠 Skills  
 

@@ -4,7 +4,7 @@ Hello there! 👋 I'm Mogamat Toufeeq Farat, and welcome to my GitHub profile. H
 
 # About Me
 
-I'm from the beautiful country of South Africa. I have completed my software development course at CodeSpace Academy, and so far I have done two internships at wondeful companies where I have worked on both front and backend and I have definity learn't from these opportunities.
+I'm from the beautiful country of South Africa. I have completed my software development course at CodeSpace Academy, and so far I have done two internships at wondeful companies where I have worked on both front and backend and I have definity learnt many things from these opportunities.
 
 ## What Drives Me
 

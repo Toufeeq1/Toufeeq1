@@ -49,8 +49,11 @@ When I'm not coding, you'll likely find me with my nose in a book. I have a deep
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Toufeeq1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toufeeq1&langs_count=10&cache_seconds=3600&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
-</a>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Toufeeq1&theme=github_dark" style="display:inline-block;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Toufeeq1&theme=github_dark" style="display:inline-block;" />
+</div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Toufeeq1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 

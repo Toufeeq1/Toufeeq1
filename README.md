@@ -55,8 +55,6 @@ When I'm not coding, you'll likely find me with my nose in a book. I have a deep
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Toufeeq1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 
 
 

@@ -48,7 +48,7 @@ When I'm not coding, you'll likely find me with my nose in a book. I have a deep
 
 
 
-<b>My GitHub Stats</b>
+<h3>My GitHub Stats</h3>
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Toufeeq1&theme=github_dark" style="display:inline-block;" />
